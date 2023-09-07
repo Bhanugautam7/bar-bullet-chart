@@ -27,6 +27,34 @@
 .App-link {
   color: #61dafb;
 }
+.dotorg{
+  height: 15px;
+  width: 15px;
+  background-color: #c7c7c7;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dotnew{
+  height: 15px;
+  width: 15px;
+  background-color: #7d7d7d;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dotcan{
+  height: 15px;
+  width: 15px;
+  background-color: #ec6157;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dothal{
+  height: 15px;
+  width: 15px;
+  background-color: #61d4c4;
+  border-radius: 50%;
+  display: inline-block;
+}
 
 @keyframes App-logo-spin {
   from {
